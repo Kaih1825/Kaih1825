@@ -6,7 +6,7 @@
 ## 👨‍💻 技能專長
 
 - 程式語言：Kotlin / Dart / C / C++ / Python / C#
-- 框架工具：Android Views（Kotlin）/ Flutter / GTK / Qt / Windows Form
+- 框架工具：Android Views（Kotlin）/ Flutter / GTK / Qt / Windows Forms
 - 常用工具：Git / VSCode / Android Studio
 
 ## 📂 作品領域
