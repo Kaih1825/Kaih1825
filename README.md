@@ -1,16 +1,16 @@
-## Hi there 👋
+# 關於我
 
-<!--
-**Kaih1825/Kaih1825** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👨‍💻 技能專長
+- 程式語言：Kotlin / Dart / C / C++ / Python / C#
+- 框架工具：Android Views（Kotlin）/ Flutter / GTK / Qt / Windows Form
+- 常用工具：Git / VSCode / Android Studio
 
-Here are some ideas to get you started:
+## 📂 作品領域
+我熱衷於以下領域的創作與開發：
+- Android 原生 App（使用 Kotlin + Views）
+- 跨平台 App（Flutter）
+- 桌面應用程式
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+👉 點選上方或側邊選單瀏覽我的作品！
+
+感謝你的來訪 🙌
