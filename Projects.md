@@ -24,6 +24,7 @@
 
 ## 3. Flutter + C++ 小遊戲 - 黑白棋
 ### [Github](https://github.com/FFIReversi)
+### [前端Github](https://github.com/FFIReversi/ReversiApplication/tree/main)
 以 C++ 撰寫遊戲核心邏輯，透過 Flutter + FFI 打造可聯機的跨平台黑白棋遊戲
 
 - 專案類型：團隊合作
