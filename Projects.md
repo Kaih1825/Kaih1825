@@ -35,7 +35,6 @@
   - 後端：WebSockets（Python）
 
 ## 4. C++ 小遊戲 - 大富翁（製作中）
-### [Github](https://github.com/Kaih1825/Meet-Together)
 以 C++ 撰寫遊戲邏輯，搭配 Qt Quick 開發的多人回合制大富翁遊戲
 
 - 專案類型：團隊合作
