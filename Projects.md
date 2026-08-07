@@ -11,7 +11,7 @@
   - 後端：Django + Docker
 
 ## 2. Flutter 天氣程式 - Weather Partner
-### [Github](https://github.com/Kaih1825/Weather_Partner)
+### [Github](https://github.com/Kaih1825/WeatherPartner)
 跨平台天氣 App，整合氣象 API 與實體感測裝置
 
 - 專案類型：團隊合作
@@ -34,7 +34,8 @@
   - 遊戲邏輯：C++
   - 後端：WebSockets（Python）
 
-## 4. C++ 小遊戲 - 大富翁（製作中）
+## 4. C++ 小遊戲 - 大富翁
+### [Github](https://github.com/Monopoly-QT/Monopoly)
 以 C++ 撰寫遊戲邏輯，搭配 Qt Quick 開發的多人回合制大富翁遊戲
 
 - 專案類型：團隊合作
@@ -64,7 +65,7 @@
   - 資料庫：SQLite
 
 ## 7. C# 小工具軟體
-### [Github](https://github.com/Kaih1825/110_2-Final_Project)
+### [Github](https://github.com/Kaih1825/ToolBox)
 Windows 平台上的整合工具，包含天氣查詢、IP 查詢、行事曆與筆記本功能
 
 - 專案類型：個人專案
